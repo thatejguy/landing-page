@@ -1,1 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.754);
+    font-size: 20px;
+}
+
+.navbar {
+    background: rgb(162, 3, 75);
+    height: 100px;
+}
+
+.navcontainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 12px;
+}
+
+.navcontainer ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.navlogo {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.header {
+     background:rgb(162, 3, 75);
+     height: 300px;
+}
+
+.headercontainer {
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+.headercontainer img {
+    max-width: 350px;
+}
+
+.headertext h1 {
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.headertext p {
+    max-width: 250px;
+    color: rgba(255, 255, 255, 0.858);
+    font-weight: bold;
+    margin: 10px;
+}
+
+.headerbutton {
+    color: white;
+    background-color: rgb(255, 4, 117);
+    margin-top: 20px;
+    margin-left: 10px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+}
 
