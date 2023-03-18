@@ -1,19 +1,1 @@
-* {
-    list-style-type: none;
-    text-decoration: none;
-}
-
-.image {
-    max-width: 500px;
-}
-
-.boxes-list li img {
-    max-width: 200px;
-    border: 5px solid skyblue;
-}
-
-.boxes-list {
-    display: flex;
-    gap: 15px;
-}
 
