@@ -98,26 +98,22 @@ a {
     flex-direction: column;
     margin: 0 auto;
     padding: 12px;
-    max-width: 900px;
+    max-width: 1000px;
 }
 
 .image1,
-.image2 {
-    border: 2px solid rgb(9, 2, 2);
+.image2,
+.image3,
+.image4 {
+    border: 2px solid rgb(255, 255, 255);
     border-radius: 50%;
-}
-
-.image1 {
-    max-width: 250px;
-}
-
-.image2 {
-    max-width: 250px;
+    max-width: 200px;
 }
 
 .infoimages {
     display: flex;
     justify-content: space-between;
+    gap: 30px;
 }
 
 .infotext {
