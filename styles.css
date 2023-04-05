@@ -17,7 +17,7 @@ a {
 }
 
 .navbar {
-    background: rgb(162, 3, 75);
+    background: rgb(0, 23, 139);
     height: 100px;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 
 .header {
-     background:rgb(162, 3, 75);
+     background: rgb(0, 23, 139);
      height: 300px;
 }
 
@@ -77,7 +77,7 @@ a {
 
 .headerbutton {
     color: white;
-    background-color: rgb(255, 4, 117);
+    background-color: rgb(4, 142, 255);
     margin-top: 20px;
     margin-left: 10px;
     border: none;
@@ -119,14 +119,14 @@ a {
 .infotext {
     display: flex;
     justify-content: center;
-    color: rgb(255, 33, 155);
+    color: rgb(33, 140, 255);
     font-size: 25px;
     margin-bottom: 40px;
     margin-top: 20px;
 }
 
 .quote {
-    background:rgb(255, 33, 155);
+    background:rgb(0, 21, 255);
     height: 400px;
     display: flex;
     align-items: center;
@@ -146,7 +146,7 @@ a {
 }
 
 .author {
-    color: rgb(162, 3, 75);
+    color: rgb(9, 0, 92);
     font-size: 18px;
 }
 
@@ -164,7 +164,7 @@ a {
 }
 
 .textboxcontainer {
-    background: rgb(255, 4, 117);
+    background: rgb(0, 39, 147);
     width: 950px;
     height: 200px;
     display: flex;
@@ -186,7 +186,7 @@ a {
 
 .footerbutton {
     color: white;
-    background-color: rgb(255, 4, 117);
+    background-color: rgb(1, 75, 212);
     margin-top: 20px;
     margin-left: 10px;
     border: none;
@@ -198,7 +198,7 @@ a {
 }
 
 .footer {
-    background:rgb(162, 3, 75);
+    background:rgb(2, 0, 67);
     height: 100px;
     display: flex;
     align-items: center;
